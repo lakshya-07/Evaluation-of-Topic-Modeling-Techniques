@@ -1,2 +1,2 @@
-# Evaluation-of-Topic-Modeling-Techniquesng
+# Evaluation-of-Topic-Modeling-Techniques
 Conducted a comparative study of topic modeling such as LDA, LSI &amp; HDP and NER technique, highlighting  trade-offs for improved domain-specific term identification
