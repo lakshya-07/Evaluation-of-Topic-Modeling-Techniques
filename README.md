@@ -7,4 +7,4 @@ The creation of domain-specific glossaries is essential for facilitating knowled
 ## Flowchart of the Evaluation Methodology
 ![image](https://github.com/user-attachments/assets/5d395a02-16e9-432e-9bfb-ce617e83e758)
 
-## NOTE: The code provided in this repository represents a foundational approach to the evaluation technique. The comparative analysis of topic modeling techniques requires the utilization of a comprehensive corpus sourced from diverse origins, coupled with the implementation of a robust methodology for result analysis and the formulation of conclusions.
+### NOTE: The code provided in this repository represents a foundational approach to the evaluation technique. The comparative analysis of topic modeling techniques requires the utilization of a comprehensive corpus sourced from diverse origins, coupled with the implementation of a robust methodology for result analysis and the formulation of conclusions.
